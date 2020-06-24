@@ -1,7 +1,9 @@
 NodeJS project
 ==============
 
-Je kan de server starten door "node ./server.js" in de terminal te typen
+Het is een HTTP server.
+
+Je kan de server starten door "node ./server.js" in de terminal te typen.
 
 Ga naar localhost:3000 
 
